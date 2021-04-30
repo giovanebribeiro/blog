@@ -1,0 +1,10 @@
+Para criar uma seção ao fim da página inicial, contendo link para Projetos, por exemplo, basta adicionar algo assim
+
+    <Title text="Projects" />
+
+    - [Super Short Story Telling: Harry Potter](https://www.lekoarts.de/en/projects/docma-award-super-short-story-telling-about-harry-potter)
+    - [Instagram Project "Proprius"](https://www.lekoarts.de/en/projects/private-instagram-project-proprius)
+
+no arquivo 
+
+    blog/minimal-blog/node_modules/@lekoarts/gatsby-theme-minimal-blog/src/texts/bottom.mdx
