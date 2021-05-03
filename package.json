@@ -30,7 +30,7 @@
     "graphql": "^14.7.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "webpack": "^5.36.2"
+    "webpack": "^4.19.1"
   },
   "devDependencies": {
     "cross-env": "^7.0.2"
